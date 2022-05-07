@@ -1,8 +1,4 @@
 - 👋 Hi, I’m MUHAMMAD TAHIR
-- 👀 I’m interested in Java  and its Frameworks 
-- 🌱 I’m currently learning Computer System Engineering
-- 💞️ I’m looking to collaborate in Web 3.0
-
 
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADTAHIR31&layout=compact)](https://github.com/MUHAMMADTAHIR31/github-readme-stats)
      
