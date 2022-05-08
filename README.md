@@ -10,7 +10,7 @@
 - 🔭 At that movement I am doing BCSE (Bachelors of Computer System Engineering)
 - 🌱 I’m currently learning SpringBoot
 - 👯 open source contributor
-- 💬 Ask me about **Java** **C++** **JS**
+- 💬 Ask me about **Java** **C++** **JS** **PHP**
 - 📫 How to reach me: tahirsindhi872@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 - ⚡  Fun fact: I spend almost 2-3 hours Learning every day
