@@ -20,6 +20,7 @@
 
 <div>
 <h2  > Connect with me</h2>
+   
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-tahir-83a431204/)
 <br>  
 [<img align="top" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12823242/mohammad-tahir)
