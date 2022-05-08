@@ -1,5 +1,4 @@
-![banner](https://www.instagram.com/p/CbNrXDrJ_4HASBInDLV870ogweyYuBxPZ5jEZM0/-)
-<h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35> I'm Muhammad Tahir</h1>
+<h1 align ="center">Hi👋, I'm Muhammad Tahir</h1>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+Pakistan"></h3>
 <img src = "https://drive.google.com/uc?export=view&id=1RL7KPzhUVY8ZF4acbWcjwDhdMgqoUmym" align ="right" width = 50%>
 <div align = "left" width = 50%>
@@ -20,7 +19,6 @@
  alt="css3"  /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> >  </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"" /> </a> </p>
 
 <br>
-<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkcr3tYAJ" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
 
