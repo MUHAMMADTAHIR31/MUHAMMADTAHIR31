@@ -7,8 +7,8 @@
 <ul>
 <li>I love to learn to code in differnt languages</li>
 <li>I am looking forward to contribute on Open Source Projects💻</li>
-<li>Ask me about <a href ="https://www.java.com/en/" target = "_blank">Java</a> </li>
-<li>📭 Reach me at my mail @tahirsindhi872@gmail.com</li>
+<li>Ask me about <a href ="https://www.java.com/en/" target = "_blank"> Java </a> </li>
+<li>📭 Reach me at my mail tahirsindhi872@gmail.com</li>
 <ul>
 </div>
 
@@ -20,7 +20,7 @@
  alt="css3"  /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> >  </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"" /> </a> </p>
 
 <br>
-<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkc__r3tYAJ" align = "left" width = 50%>
+<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkcr3tYAJ" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
 
