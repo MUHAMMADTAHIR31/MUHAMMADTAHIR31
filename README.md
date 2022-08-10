@@ -11,7 +11,7 @@
 <li>I love to learn to code in differnt languages</li>
 <li>I am looking forward to contribute on Open Source Projects💻</li>
 <li>Ask me about <a href ="https://www.java.com/en/" target = "_blank"> Java </a> PHP Python</li>
-<li>📭 Reach me at my mail tahirsindhi872@gmail.com</li>
+<li>📭 Reach me at my mail tahirkorejo872@gmail.com</li>
 <ul>
 </div>
 
