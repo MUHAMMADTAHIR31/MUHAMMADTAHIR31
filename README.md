@@ -8,8 +8,8 @@
 <div align = "left" width = 50%>
 <h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> ABOUT ME </h2>
 <ul>
-<li>I love to learn to code in differnt languages</li>
-<li>I am looking forward to contribute on Open Source Projects💻</li>
+<li>I love to learn to code in different languages</li>
+<li>I am looking forward to contributing to Open Source Projects💻</li>
 <li>Ask me about <a href ="https://www.java.com/en/" target = "_blank"> Java </a> PHP Python</li>
 <li>📭 Reach me at my mail tahirkorejo872@gmail.com</li>
 <ul>
