@@ -3,7 +3,6 @@
 
 
 <h1 align ="center">Hi👋, I'm Muhammad Tahir</h1>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+From+Pakistan"></h3>
 
 <div align = "left" width = 50%>
 <h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> ABOUT ME </h2>
