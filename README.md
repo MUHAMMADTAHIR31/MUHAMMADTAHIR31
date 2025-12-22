@@ -24,14 +24,10 @@
 <div>
 <h2  > Connect with me</h2>
    
-[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-tahir-83a431204/)
+[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-tahir-83a431204/)
 <br>  
 [<img align="top" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12823242/mohammad-tahir)
-<br>  
-[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/tahir.korejo.9/)
-<br>   
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/mohdtahir_31/)
-<br>  
+
 </div>
   
 ## 📊 My Github Stats
