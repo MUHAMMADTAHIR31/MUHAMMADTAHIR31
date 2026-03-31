@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Muhammad+Tahir;Researcher+%7C+Software+Developer;Confidential+Computing+%7C+Cloud+Security;System+Design+%7C+Secure+Backend+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=Muhammad+Tahir;Researcher+%7C+Software+Developer;Confidential+Computing+%7C+Cloud+Security;Secure+Systems+%7C+Backend+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-Building secure, scalable, and research-driven software systems with a focus on backend engineering, cloud security, and modern system design.
+Researcher and software developer focused on confidential computing, cloud security, secure backend engineering, and modern system design.
 
 </div>
 
@@ -25,19 +25,38 @@ Building secure, scalable, and research-driven software systems with a focus on 
 ```yaml
 name        : Muhammad Tahir
 role        : Researcher & Software Developer
-location    : 🌍 Italy
-speciality  : Secure Backend Engineering · Research-Driven Development
-interests   : Confidential Computing · Cloud Security · System Design
+location    : 🌍 Genova, Italy
+speciality  : Secure Backend Engineering · Systems-Oriented Development
+interests   : Confidential Computing · Cloud Security · Secure Systems Design
+goal        : Research and engineering at the intersection of security, systems, and cloud infrastructure
 contact     : tahirkorejo872@gmail.com
 ```
 
-- 🔭 &nbsp;I work at the intersection of **research and software engineering**, building secure, scalable, and reliable systems
-- ☁️ &nbsp;My core interests include **Confidential Computing, Cloud Security, System Design, and secure system development**
-- 🛠️ &nbsp;Experienced in developing **backend applications and platform-oriented solutions** using Java, Spring Boot, and Python
-- 🌱 &nbsp;Continuously exploring modern architectures, engineering practices, and security-focused design approaches
-- 🤝 &nbsp;Actively looking to contribute to **Open Source Projects**
-- 🧠 &nbsp;Ask me about **Java, Spring Boot, Python, backend engineering, system design, or cloud security**
+- 🔭 &nbsp;I work at the intersection of **research and software engineering**, with an emphasis on building secure, scalable, and dependable systems
+- ☁️ &nbsp;My research and technical interests include **Confidential Computing, Cloud Security, Secure Systems Design, and trusted computing infrastructure**
+- 🛠️ &nbsp;I build **backend services and systems-oriented applications** using Java, Spring Boot, and Python, with attention to reliability, maintainability, and security
+- 🌱 &nbsp;I am particularly interested in problems related to **attestation, trust, system architecture, and security-aware platform design**
+- 🤝 &nbsp;Open to **research collaboration, open-source contributions, and engineering opportunities** aligned with secure systems and cloud technologies
+- 🧠 &nbsp;Ask me about **Java, Spring Boot, Python, backend engineering, system design, cloud security, or confidential computing**
 - 📬 &nbsp;Reach me at **tahirkorejo872@gmail.com**
+
+---
+
+## 🔬 Research Interests
+
+- Confidential Computing and trusted execution environments
+- Cloud Security, remote attestation, and platform trust
+- Secure system architecture and dependable backend systems
+- System design for scalable, resilient, and security-aware platforms
+- Applied research that connects theoretical ideas with production-oriented implementations
+
+---
+
+## 🎯 Current Focus
+
+- Deepening expertise in **secure systems and cloud-native architectures**
+- Building practical systems that reflect **research-driven engineering principles**
+- Exploring opportunities that combine **academic research** with **real-world software development**
 
 ---
 
@@ -112,6 +131,6 @@ contact     : tahirkorejo872@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
 
-*"I build systems with a focus on security, clarity, and long-term reliability."*
+*"I aim to bridge research and engineering through secure, reliable, and thoughtfully designed systems."*
 
 </div>
