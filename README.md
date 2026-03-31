@@ -1,12 +1,20 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Tahir;Researcher+%7C+Software+Developer;Confidential+Computing+%7C+Cloud+Security;System+Design+%7C+System+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Muhammad+Tahir;Researcher+%7C+Software+Developer;Confidential+Computing+%7C+Cloud+Security;System+Design+%7C+Secure+Backend+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+Building secure, scalable, and research-driven software systems with a focus on backend engineering, cloud security, and modern system design.
 
 </div>
 
@@ -18,15 +26,17 @@
 name        : Muhammad Tahir
 role        : Researcher & Software Developer
 location    : 🌍 Italy
-focus       : Confidential Computing · Cloud Security · System Design · System Development
+speciality  : Secure Backend Engineering · Research-Driven Development
+interests   : Confidential Computing · Cloud Security · System Design
 contact     : tahirkorejo872@gmail.com
 ```
 
-- 🔭 &nbsp;Working as a **researcher and software developer** with a strong interest in secure and scalable systems
-- ☁️ &nbsp;Interested in **Confidential Computing, Cloud Security, System Design, and System Development**
-- 🌱 &nbsp;Continuously learning and exploring modern architectures, platforms, and engineering practices
+- 🔭 &nbsp;I work at the intersection of **research and software engineering**, building secure, scalable, and reliable systems
+- ☁️ &nbsp;My core interests include **Confidential Computing, Cloud Security, System Design, and secure system development**
+- 🛠️ &nbsp;Experienced in developing **backend applications and platform-oriented solutions** using Java, Spring Boot, and Python
+- 🌱 &nbsp;Continuously exploring modern architectures, engineering practices, and security-focused design approaches
 - 🤝 &nbsp;Actively looking to contribute to **Open Source Projects**
-- 🧠 &nbsp;Ask me about **Java, Spring Boot, Python, system design, or backend development**
+- 🧠 &nbsp;Ask me about **Java, Spring Boot, Python, backend engineering, system design, or cloud security**
 - 📬 &nbsp;Reach me at **tahirkorejo872@gmail.com**
 
 ---
@@ -77,7 +87,7 @@ contact     : tahirkorejo872@gmail.com
 
 </div>
 
-> **Note:** Top Languages reflects my public repositories and is not a comprehensive indicator of expertise or experience.
+> **Note:** The Top Languages section reflects activity across public repositories and should not be treated as a full measure of professional experience.
 
 ---
 
@@ -102,6 +112,6 @@ contact     : tahirkorejo872@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
 
-*"Code is not just syntax — it's the language of ideas made real."*
+*"I build systems with a focus on security, clarity, and long-term reliability."*
 
 </div>
